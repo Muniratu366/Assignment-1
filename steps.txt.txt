@@ -1,0 +1,8 @@
+1. Created a repository on GitHub.
+2. Cloned the repository to my computer using GitHub Desktop.
+3. Edited the README file and added the repository link.
+4. Added this steps.txt file.
+5. Committed the changes.
+6. Pushed the changes to GitHub.
+
+https://github.com/Muniratu366/Assignment-1
